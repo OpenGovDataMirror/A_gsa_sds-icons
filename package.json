@@ -1,0 +1,19 @@
+{
+  "name": "@gsa-sam/icons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GSA/sds-icons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GSA/sds-icons/issues"
+  },
+  "homepage": "https://github.com/GSA/sds-icons#readme"
+}
